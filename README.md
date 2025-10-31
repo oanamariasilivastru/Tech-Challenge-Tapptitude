@@ -3,6 +3,10 @@
 ## Description
 This is a React Native application for managing and viewing recipes. Users can register, log in, view recipes, mark them as favorites, like or dislike recipes, and search recipes using an AI prompt. The app follows the Figma design: [Figma link](https://www.figma.com/design/wuHnFuYeOER9m6VOHGmkif/FS-RN-Tech-Challenge?node-id=0-1&p=f).
 
+The project has **two main branches**:
+- `frontend` – React Native app
+- `server` – Node.js backend server
+
 ## Technologies Used
 
 ### Frontend
