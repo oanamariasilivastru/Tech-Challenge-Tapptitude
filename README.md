@@ -33,7 +33,7 @@ This is a React Native application for managing and viewing recipes. Users can r
 ![Login](assets/login_recipe.png)
 
 ### Register
-![Register](assets/registee_recipefinder.png)
+![Register](assets/register_recipefinder.png)
 
 ### Home and Favorites
 ![Home](assets/home.png)
