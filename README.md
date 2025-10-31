@@ -37,15 +37,17 @@ This is a React Native application for managing and viewing recipes. Users can r
 ### Register
 ![Register](assets/register_recipefinder.png)
 
-### Home and Favorites
+### Home
 ![Home](assets/home.png)
 
 ### Recipe Details 1
-![Recipe Details 1](assets/recipedetails2.png)
+![Recipe Details 1](assets/recipedetails.png)
 
 ### Recipe Details 2
-![Recipe Details 2](assets/recipedetails.png)
+![Recipe Details 2](assets/recipedetails2.png)
 
+### Search
+![Search](assets/search.png)
 ## How to Run the App
 
 ### Frontend
