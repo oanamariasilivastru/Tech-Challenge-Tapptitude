@@ -18,7 +18,9 @@ This is a React Native application for managing and viewing recipes. Users can r
 - Express  
 - SQLite for database  
 - REST API endpoints for authentication and recipes  
-
+- JWT token authentication  
+- Passwords hashed using a secure algorithm
+  
 ### Design
 - Figma for UI/UX  
 
@@ -50,17 +52,36 @@ This is a React Native application for managing and viewing recipes. Users can r
 1. Clone the repository:  
 ```bash
 git clone https://github.com/oanamariasilivastru/Tech-Challenge-Tapptitude.git
+```
 Navigate to the frontend folder:
-
+```bash
 cd RecipeFinder
+```
 Install dependencies:
-
+```bash
 npm install
-
+```
 
 Start the app:
-
+```bash
 npx expo start
-
+```
 
 Open the app on an emulator or a physical device using Expo Go.
+
+## How to Run Server
+### Install dependencies
+```bash
+cd server
+npm install
+```
+
+Run the server
+```bash
+node server.js
+```
+
+API Base URL
+```bash
+http://localhost:3000/api
+```
